@@ -4,11 +4,6 @@ from libs.HTMLTestRunner import HTMLTestRunner
 import os
 import time
 
-import testsuits
-from testsuits.test_login import LoginProcess
-from testsuits.test_clicklabel import LabelClick
-
-
 
 
 

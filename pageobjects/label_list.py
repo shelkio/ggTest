@@ -3,13 +3,14 @@ from framework.base_page import BasePage
 import random
 import sys
 class LabelList(BasePage):
+    #点击标签
     def click_label(self):
         num = random.randint(1,7)
-        print num
-        cLabel = 'xpath=>//*[@id="app"]/div/div[2]/div[3]/ul[2]/li[' + bytes(num) + ']/p'
+        cLabel = 'xpath=>/html/body/div[1]/div/div[1]/div[4]/ul[2]/li[' + bytes(num) + ']/p'
         sLabel = self.find_element(cLabel).text
         self.click(cLabel)
         return sLabel
+    #得到征稿令列表标签
     def get_label(self):
         self.sleep(1)
         for num in range(1, 6):
