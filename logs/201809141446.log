@@ -1,0 +1,7 @@
+2018-09-14 14:46:50,006 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 14:46:50,007 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 14:46:56,815 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 14:47:01,368 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 14:47:02,536 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 14:47:03,539 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 14:47:05,150 - BasePage - INFO - The element ' %s ' was clicked.

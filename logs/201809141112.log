@@ -1,0 +1,5 @@
+2018-09-14 11:12:59,944 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6]/p 
+2018-09-14 11:13:00,005 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6]/p 
+2018-09-14 11:13:00,171 - BasePage - INFO - The element ' 文学 ' was clicked.
+2018-09-14 11:13:01,171 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:13:01,500 - BasePage - INFO - Had find the element ' 情感文学体育 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 

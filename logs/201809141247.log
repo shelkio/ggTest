@@ -1,0 +1,18 @@
+2018-09-14 12:47:15,934 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 12:47:15,984 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 12:47:16,115 - BasePage - INFO - The element ' 时事热点 ' was clicked.
+2018-09-14 12:47:17,115 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:47:17,188 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 12:47:17,262 - BasePage - INFO - Had find the element ' 时事热点娱乐幽默搞笑 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 12:47:17,335 - BasePage - INFO - Had find the element ' 时事热点教育学术 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 12:47:17,415 - BasePage - INFO - Had find the element ' 时事热点游戏动漫 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 12:47:17,496 - BasePage - INFO - Had find the element ' 时事热点宠物 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 
+2018-09-14 12:48:05,167 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 12:48:05,216 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 12:48:05,342 - BasePage - INFO - The element ' 艺术文化 ' was clicked.
+2018-09-14 12:48:06,344 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:48:06,426 - BasePage - INFO - Had find the element ' 艺术文化历史星座占卜 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 12:48:06,526 - BasePage - INFO - Had find the element ' 教育母婴育儿艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 12:48:06,618 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 12:48:06,710 - BasePage - INFO - Had find the element ' 情感艺术文化历史 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 12:48:06,792 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

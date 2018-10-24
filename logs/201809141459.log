@@ -1,0 +1,14 @@
+2018-09-14 14:59:01,145 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 14:59:01,145 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 14:59:06,519 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 14:59:12,371 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 14:59:13,644 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 14:59:14,648 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 14:59:14,703 - BasePage - INFO - The element ' 登录 ' was clicked.
+2018-09-14 14:59:17,822 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 14:59:17,914 - BasePage - INFO - Had find the element ' 切换手机号登录 ' seccessful by xpath via value: //*[@id="app"]/div/div/div/div/div/div/div[3]/a 
+2018-09-14 14:59:17,927 - BasePage - INFO - The element ' 切换手机号登录 ' was clicked.
+2018-09-14 14:59:19,075 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 14:59:19,355 - BasePage - INFO - Had type ' 友2 ' in inputBox
+2018-09-14 14:59:19,585 - BasePage - INFO - Had type ' 333333 ' in inputBox
+2018-09-14 14:59:19,648 - BasePage - INFO - The element ' 登录 ' was clicked.

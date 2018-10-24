@@ -1,0 +1,18 @@
+2018-09-14 11:57:12,005 - BasePage - INFO - Had find the element ' 科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7]/p 
+2018-09-14 11:57:12,138 - BasePage - INFO - Had find the element ' 科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7]/p 
+2018-09-14 11:57:12,515 - BasePage - INFO - The element ' 科技互联网 ' was clicked.
+2018-09-14 11:57:13,516 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:57:13,582 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 11:57:13,746 - BasePage - INFO - Had find the element ' 健康医疗汽车科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 11:57:13,832 - BasePage - INFO - Had find the element ' 时事热点科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 11:57:13,920 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 11:57:14,069 - BasePage - INFO - Had find the element ' 汽车科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 
+2018-09-14 11:57:53,632 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 11:57:53,730 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 11:57:53,895 - BasePage - INFO - The element ' 时事热点 ' was clicked.
+2018-09-14 11:57:54,895 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:57:55,016 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 11:57:55,233 - BasePage - INFO - Had find the element ' 时事热点娱乐幽默搞笑 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 11:57:55,368 - BasePage - INFO - Had find the element ' 时事热点教育学术 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 11:57:55,526 - BasePage - INFO - Had find the element ' 时事热点游戏动漫 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 11:57:55,651 - BasePage - INFO - Had find the element ' 时事热点宠物 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

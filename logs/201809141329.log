@@ -1,0 +1,14 @@
+2018-09-14 13:29:27,871 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 13:29:27,871 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 13:29:33,000 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 13:29:39,671 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 13:29:40,828 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 13:29:41,013 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 13:29:41,073 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 13:29:41,200 - BasePage - INFO - The element ' 艺术文化 ' was clicked.
+2018-09-14 13:29:42,200 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 13:29:42,313 - BasePage - INFO - Had find the element ' 艺术文化历史星座占卜 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 13:29:42,420 - BasePage - INFO - Had find the element ' 教育母婴育儿艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 13:29:42,507 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 13:29:42,585 - BasePage - INFO - Had find the element ' 情感艺术文化历史 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 13:29:42,661 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

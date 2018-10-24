@@ -1,0 +1,5 @@
+2018-09-14 10:43:09,236 - BasePage - INFO - Had find the element ' 文学
+1 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6] 
+2018-09-14 10:43:10,250 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 10:43:10,286 - BasePage - INFO - Had find the element ' 文学
+1 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6] 

@@ -1,0 +1,4 @@
+2018-09-14 12:44:35,463 - BasePage - INFO - Had find the element ' 情感 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[3]/p 
+2018-09-14 12:44:35,555 - BasePage - INFO - Had find the element ' 情感 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[3]/p 
+2018-09-14 12:44:35,750 - BasePage - INFO - The element ' 情感 ' was clicked.
+2018-09-14 12:44:36,752 - BasePage - INFO - Sleep for 1 seconds

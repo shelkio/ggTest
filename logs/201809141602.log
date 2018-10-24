@@ -1,0 +1,9 @@
+2018-09-14 16:02:53,589 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 16:02:53,591 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 16:02:58,799 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 16:03:02,411 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 16:03:03,562 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 16:03:03,839 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 16:03:03,888 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 16:03:03,900 - BasePage - INFO - The element ' 旅游 ' was clicked.
+2018-09-14 16:03:05,026 - BasePage - INFO - Sleep for 1 seconds

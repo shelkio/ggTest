@@ -1,0 +1,28 @@
+2018-09-14 16:11:03,243 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 16:11:03,244 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 16:11:08,622 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 16:11:12,519 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 16:11:13,680 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 16:11:13,895 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6]/p 
+2018-09-14 16:11:13,944 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6]/p 
+2018-09-14 16:11:13,954 - BasePage - INFO - The element ' 文学 ' was clicked.
+2018-09-14 16:11:15,076 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 16:11:15,150 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 16:11:15,233 - BasePage - INFO - Had find the element ' 情感文学体育 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 16:11:15,309 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 16:11:15,388 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 16:11:15,459 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 
+2018-09-14 16:11:48,433 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 16:11:48,433 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 16:11:53,506 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 16:11:58,838 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 16:12:00,153 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 16:12:00,306 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 16:12:00,371 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 16:12:00,391 - BasePage - INFO - The element ' 美妆时尚 ' was clicked.
+2018-09-14 16:12:01,572 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 16:12:02,061 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 16:12:02,200 - BasePage - INFO - Had find the element ' 情感美妆时尚商业软文 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 16:12:02,306 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 16:12:02,418 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 16:12:02,517 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

@@ -1,0 +1,4 @@
+2018-09-14 10:30:33,701 - BasePage - INFO - Had find the element ' 科技互联网
+4 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7] 
+2018-09-14 10:30:33,983 - BasePage - INFO - The element ' 科技互联网
+4 ' was clicked.

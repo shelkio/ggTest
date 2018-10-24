@@ -1,0 +1,15 @@
+2018-09-14 11:22:28,539 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 11:22:28,595 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 11:22:28,778 - BasePage - INFO - The element ' 旅游 ' was clicked.
+2018-09-14 11:22:29,778 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:22:29,926 - BasePage - INFO - Had find the element ' 旅游餐饮美食 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 11:22:30,006 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 11:22:30,117 - BasePage - INFO - Had find the element ' 时事热点旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 11:22:30,244 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 11:22:30,378 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 
+2018-09-14 11:22:31,398 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:22:31,959 - BasePage - INFO - Had find the element ' 旅游餐饮美食 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 11:22:32,019 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 11:22:32,418 - BasePage - INFO - Had find the element ' 时事热点旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 11:22:32,493 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 11:22:32,555 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

@@ -1,0 +1,9 @@
+2018-09-14 12:45:26,737 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 12:45:26,805 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 12:45:26,989 - BasePage - INFO - The element ' 艺术文化 ' was clicked.
+2018-09-14 12:45:27,990 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:45:28,247 - BasePage - INFO - Had find the element ' 艺术文化历史星座占卜 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 12:45:28,325 - BasePage - INFO - Had find the element ' 教育母婴育儿艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 12:45:28,401 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 12:45:28,484 - BasePage - INFO - Had find the element ' 情感艺术文化历史 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 12:45:28,565 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

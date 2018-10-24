@@ -1,0 +1,10 @@
+2018-09-14 11:20:08,240 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 11:20:08,345 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 11:20:08,563 - BasePage - INFO - The element ' 美妆时尚 ' was clicked.
+2018-09-14 11:20:08,663 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 11:20:08,710 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 11:20:08,809 - BasePage - INFO - The element ' 时事热点 ' was clicked.
+2018-09-14 11:20:09,809 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:20:09,891 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 11:20:10,911 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:20:10,944 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 

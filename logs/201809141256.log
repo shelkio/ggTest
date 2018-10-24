@@ -1,0 +1,5 @@
+2018-09-14 12:56:48,973 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 12:56:49,040 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 12:56:49,266 - BasePage - INFO - The element ' 艺术文化 ' was clicked.
+2018-09-14 12:56:50,266 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:56:50,674 - BasePage - INFO - Had find the element ' 艺术文化历史星座占卜 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 

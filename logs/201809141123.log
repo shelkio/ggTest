@@ -1,0 +1,5 @@
+2018-09-14 11:23:52,344 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 11:23:52,411 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 11:23:52,834 - BasePage - INFO - The element ' 美妆时尚 ' was clicked.
+2018-09-14 11:23:53,842 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:23:54,776 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 

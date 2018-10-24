@@ -1,0 +1,16 @@
+2018-09-13 18:46:13,040 - BasePage - INFO - Had find the element ' 艺术文化
+3 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4] 
+2018-09-13 18:46:13,286 - BasePage - INFO - The element ' 艺术文化
+3 ' was clicked.
+2018-09-13 18:46:34,717 - BasePage - INFO - Had find the element ' 艺术文化
+3 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4] 
+2018-09-13 18:46:34,946 - BasePage - INFO - The element ' 艺术文化
+3 ' was clicked.
+2018-09-13 18:46:53,757 - BasePage - INFO - Had find the element ' 旅游
+2 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5] 
+2018-09-13 18:46:53,871 - BasePage - INFO - The element ' 旅游
+2 ' was clicked.
+2018-09-13 18:47:08,246 - BasePage - INFO - Had find the element ' 科技互联网
+3 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7] 
+2018-09-13 18:47:08,436 - BasePage - INFO - The element ' 科技互联网
+3 ' was clicked.

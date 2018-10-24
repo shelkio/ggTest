@@ -1,0 +1,4 @@
+2018-09-14 10:03:51,391 - BasePage - INFO - Had find the element ' 旅游
+2 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5] 
+2018-09-14 10:03:51,575 - BasePage - INFO - The element ' 旅游
+2 ' was clicked.

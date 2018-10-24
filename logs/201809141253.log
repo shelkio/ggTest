@@ -1,0 +1,15 @@
+2018-09-14 12:53:16,839 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 12:53:16,905 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 12:53:17,062 - BasePage - INFO - The element ' 旅游 ' was clicked.
+2018-09-14 12:53:18,062 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:53:18,460 - BasePage - INFO - Had find the element ' 旅游餐饮美食 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 12:53:39,096 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6]/p 
+2018-09-14 12:53:39,138 - BasePage - INFO - Had find the element ' 文学 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[6]/p 
+2018-09-14 12:53:39,247 - BasePage - INFO - The element ' 文学 ' was clicked.
+2018-09-14 12:53:40,249 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:53:40,315 - BasePage - INFO - Had find the element ' 情感文学体育 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 12:54:01,983 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 12:54:02,026 - BasePage - INFO - Had find the element ' 时事热点 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1]/p 
+2018-09-14 12:54:02,164 - BasePage - INFO - The element ' 时事热点 ' was clicked.
+2018-09-14 12:54:03,164 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:54:03,279 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 

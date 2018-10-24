@@ -1,0 +1,9 @@
+2018-09-14 11:43:16,654 - BasePage - INFO - Had find the element ' 科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7]/p 
+2018-09-14 11:43:16,703 - BasePage - INFO - Had find the element ' 科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7]/p 
+2018-09-14 11:43:16,849 - BasePage - INFO - The element ' 科技互联网 ' was clicked.
+2018-09-14 11:43:17,851 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 11:43:18,423 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 11:43:18,513 - BasePage - INFO - Had find the element ' 健康医疗汽车科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 11:43:18,592 - BasePage - INFO - Had find the element ' 时事热点科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 11:43:18,676 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 11:43:18,743 - BasePage - INFO - Had find the element ' 汽车科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

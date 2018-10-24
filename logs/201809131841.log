@@ -1,0 +1,4 @@
+2018-09-13 18:41:37,105 - BasePage - INFO - Had find the element ' 时事热点
+9 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[1] 
+2018-09-13 18:41:37,430 - BasePage - INFO - The element ' 时事热点
+9 ' was clicked.

@@ -1,0 +1,25 @@
+2018-09-14 15:27:18,342 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 15:27:18,342 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 15:27:23,963 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 15:27:30,466 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 15:27:31,621 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 15:27:31,846 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 15:27:31,915 - BasePage - INFO - Had find the element ' 艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[4]/p 
+2018-09-14 15:27:31,934 - BasePage - INFO - The element ' 艺术文化 ' was clicked.
+2018-09-14 15:27:33,184 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 15:27:33,272 - BasePage - INFO - Had find the element ' 艺术文化历史星座占卜 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 15:27:33,349 - BasePage - INFO - Had find the element ' 教育母婴育儿艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 15:27:33,430 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 15:27:33,538 - BasePage - INFO - Had find the element ' 情感艺术文化历史 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 15:27:33,621 - BasePage - INFO - Had find the element ' 电影音乐美妆时尚艺术文化 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 
+2018-09-14 15:27:37,092 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 15:27:37,092 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 15:27:44,088 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 15:28:00,878 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 15:28:02,322 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 15:28:02,556 - BasePage - INFO - The element ' 登录 ' was clicked.
+2018-09-14 15:28:05,275 - BasePage - INFO - Had find the element ' 切换手机号登录 ' seccessful by xpath via value: //*[@id="app"]/div/div/div/div/div/div/div[3]/a 
+2018-09-14 15:28:05,289 - BasePage - INFO - The element ' 切换手机号登录 ' was clicked.
+2018-09-14 15:28:05,665 - BasePage - INFO - Had type ' 友2 ' in inputBox
+2018-09-14 15:28:05,832 - BasePage - INFO - Had type ' 333333 ' in inputBox
+2018-09-14 15:28:05,953 - BasePage - INFO - The element ' 登录 ' was clicked.

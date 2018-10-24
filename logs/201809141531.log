@@ -1,0 +1,14 @@
+2018-09-14 15:31:58,637 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-14 15:31:58,638 - BrowserEngine - INFO - The test server url is: https://gg.bqj.cn
+2018-09-14 15:32:04,259 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-14 15:32:07,838 - BrowserEngine - INFO - Open url: https://gg.bqj.cn 
+2018-09-14 15:32:09,076 - BrowserEngine - INFO - Maximize the current window. 
+2018-09-14 15:32:09,634 - BasePage - INFO - Had find the element ' 科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7]/p 
+2018-09-14 15:32:09,691 - BasePage - INFO - Had find the element ' 科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7]/p 
+2018-09-14 15:32:09,709 - BasePage - INFO - The element ' 科技互联网 ' was clicked.
+2018-09-14 15:32:10,855 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 15:32:10,923 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 15:32:11,019 - BasePage - INFO - Had find the element ' 健康医疗汽车科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[2]/div[1]/a/ul 
+2018-09-14 15:32:11,099 - BasePage - INFO - Had find the element ' 时事热点科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[3]/div[1]/a/ul 
+2018-09-14 15:32:11,184 - BasePage - INFO - Had find the element ' 时事热点科技互联网工业农业 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[4]/div[1]/a/ul 
+2018-09-14 15:32:11,259 - BasePage - INFO - Had find the element ' 汽车科技互联网 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[5]/div[1]/a/ul 

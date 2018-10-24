@@ -1,0 +1,10 @@
+2018-09-14 12:49:12,453 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 12:49:12,516 - BasePage - INFO - Had find the element ' 旅游 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[5]/p 
+2018-09-14 12:49:12,661 - BasePage - INFO - The element ' 旅游 ' was clicked.
+2018-09-14 12:49:13,661 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:49:13,723 - BasePage - INFO - Had find the element ' 旅游餐饮美食 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 
+2018-09-14 12:49:42,380 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 12:49:42,444 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2]/p 
+2018-09-14 12:49:42,578 - BasePage - INFO - The element ' 美妆时尚 ' was clicked.
+2018-09-14 12:49:43,579 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 12:49:44,543 - BasePage - INFO - Had find the element ' 美妆时尚 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[1]/ul/li[1]/div[1]/a/ul 

@@ -1,0 +1,4 @@
+2018-09-14 10:01:28,395 - BasePage - INFO - Had find the element ' 美妆时尚
+2 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2] 
+2018-09-14 10:01:28,601 - BasePage - INFO - The element ' 美妆时尚
+2 ' was clicked.

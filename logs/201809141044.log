@@ -1,0 +1,6 @@
+2018-09-14 10:44:52,176 - BasePage - INFO - Had find the element ' 科技互联网
+4 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[7] 
+2018-09-14 10:44:53,194 - BasePage - INFO - Sleep for 1 seconds
+2018-09-14 10:44:55,194 - BasePage - INFO - Sleep for 2 seconds
+2018-09-14 10:44:55,263 - BasePage - INFO - Had find the element ' 美妆时尚
+3 ' seccessful by xpath via value: //*[@id="app"]/div/div[2]/div[3]/ul[2]/li[2] 
