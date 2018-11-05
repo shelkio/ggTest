@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ggtest.iml" filepath="$PROJECT_DIR$/.idea/ggtest.iml" />
+      <module fileurl="file://$USER_HOME$/python_demo/.idea/python_demo.iml" filepath="$USER_HOME$/python_demo/.idea/python_demo.iml" />
+      <module fileurl="file://$USER_HOME$/request111/.idea/request111.iml" filepath="$USER_HOME$/request111/.idea/request111.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
     </modules>
   </component>
